@@ -39,8 +39,6 @@ Follow these steps to set up and run the project on your local machine:
 3. *Start the local development server:*
    bash
    npm run dev
-   
-   (Note: Run npm start instead if this project was built using Create React App).
 
 4. *Open in your browser:*
    Open the local URL provided in your terminal (typically http://localhost:5173).
